@@ -1,0 +1,489 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nty/global/}
+    \entry{austen1998social}{article}{}
+      \name{author}{2}{}{%
+        {{hash=dc0c0f8a88c4bfdeb9a2374316354d73}{%
+           family={Austen-Smith},
+           familyi={A\bibinithyphendelim S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ccf9db3b1b20588e8f0de6faaf589a94}{%
+           family={Banks},
+           familyi={B\bibinitperiod},
+           given={Jeffrey\bibnamedelima S},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA}%
+      }
+      \strng{namehash}{217c30683590edc745709cb78f5ead1b}
+      \strng{fullhash}{217c30683590edc745709cb78f5ead1b}
+      \strng{authornamehash}{217c30683590edc745709cb78f5ead1b}
+      \strng{authorfullhash}{217c30683590edc745709cb78f5ead1b}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annual Review of Political Science}
+      \field{number}{1}
+      \field{title}{Social choice theory, game theory, and positive political theory}
+      \field{volume}{1}
+      \field{year}{1998}
+      \field{pages}{259\bibrangedash 287}
+      \range{pages}{29}
+    \endentry
+    \entry{brandt2016handbook}{book}{}
+      \name{author}{5}{}{%
+        {{hash=acc19cd69415325993a1e9374870704f}{%
+           family={Brandt},
+           familyi={B\bibinitperiod},
+           given={Felix},
+           giveni={F\bibinitperiod}}}%
+        {{hash=81da09aaa261f0e4e292e8d16cb4c006}{%
+           family={Conitzer},
+           familyi={C\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod}}}%
+        {{hash=42991b9be1d7eaaa6d9de9c4e81c23ab}{%
+           family={Endriss},
+           familyi={E\bibinitperiod},
+           given={Ulle},
+           giveni={U\bibinitperiod}}}%
+        {{hash=b11d9ea579029526e0cde5ad330253c1}{%
+           family={Procaccia},
+           familyi={P\bibinitperiod},
+           given={Ariel\bibnamedelima D},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=b3a98e52d0fc3b93396284382d66f227}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={Jérôme},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{7f8fce5409817f6c28b9e86ff1f7b802}
+      \strng{fullhash}{9afa7f3d651a0f2b5d84a6b6db390fb3}
+      \strng{authornamehash}{7f8fce5409817f6c28b9e86ff1f7b802}
+      \strng{authorfullhash}{9afa7f3d651a0f2b5d84a6b6db390fb3}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Handbook of computational social choice}
+      \field{year}{2016}
+    \endentry
+    \entry{cioffi2014introduction}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7c21e45f72483189a9a452862c8378bc}{%
+           family={Cioffi-Revilla},
+           familyi={C\bibinithyphendelim R\bibinitperiod},
+           given={Claudio},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{7c21e45f72483189a9a452862c8378bc}
+      \strng{fullhash}{7c21e45f72483189a9a452862c8378bc}
+      \strng{authornamehash}{7c21e45f72483189a9a452862c8378bc}
+      \strng{authorfullhash}{7c21e45f72483189a9a452862c8378bc}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Berlin/New York: Springer}
+      \field{title}{Introduction to computational social science}
+      \field{volume}{10}
+      \field{year}{2014}
+      \field{pages}{978\bibrangedash 1}
+      \range{pages}{-6}
+    \endentry
+    \entry{conte2012manifesto}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=50ec2260a3a7e3986b7e335438fa7706}{%
+           family={Conte},
+           familyi={C\bibinitperiod},
+           given={Rosaria},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0f06f662cc6ff7378a1c28613c4cb8c5}{%
+           family={Gilbert},
+           familyi={G\bibinitperiod},
+           given={Nigel},
+           giveni={N\bibinitperiod}}}%
+        {{hash=8fb22c6c108bccf2eeae9a9b0e9dd6e8}{%
+           family={Bonelli},
+           familyi={B\bibinitperiod},
+           given={Giulia},
+           giveni={G\bibinitperiod}}}%
+        {{hash=7c21e45f72483189a9a452862c8378bc}{%
+           family={Cioffi-Revilla},
+           familyi={C\bibinithyphendelim R\bibinitperiod},
+           given={Claudio},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d2fab89b3beda9cbddabaa3c50947ee6}{%
+           family={Deffuant},
+           familyi={D\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod}}}%
+        {{hash=6d4ce56e2f1879c4950bb724264c7f8d}{%
+           family={Kertesz},
+           familyi={K\bibinitperiod},
+           given={Janos},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7144c0bfd01cbf1afe3f7fd7b9650abe}{%
+           family={Loreto},
+           familyi={L\bibinitperiod},
+           given={Vittorio},
+           giveni={V\bibinitperiod}}}%
+        {{hash=2a7265d927e0af1364f4a469b18c7737}{%
+           family={Moat},
+           familyi={M\bibinitperiod},
+           given={Suzy},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4611603dac777d1200b231d7393f00f1}{%
+           family={Nadal},
+           familyi={N\bibinitperiod},
+           given={Jean-Pierre},
+           giveni={J\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=26cd7c65a5d677a481816413c1bd5dae}{%
+           family={Sanchez},
+           familyi={S\bibinitperiod},
+           given={Anxo},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{9d207f0143803c927dcd912a87ce9052}
+      \strng{fullhash}{bc4dec1ed2d4b9db8c913bfe12e5f922}
+      \strng{authornamehash}{9d207f0143803c927dcd912a87ce9052}
+      \strng{authorfullhash}{bc4dec1ed2d4b9db8c913bfe12e5f922}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Physical Journal-Special Topics}
+      \field{title}{Manifesto of computational social science}
+      \field{volume}{214}
+      \field{year}{2012}
+      \field{pages}{p\bibrangedash 325}
+      \range{pages}{-1}
+    \endentry
+    \entry{crawford1995grammar}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1728e5c403ba5bc3895a1962204a342c}{%
+           family={Crawford},
+           familyi={C\bibinitperiod},
+           given={Sue\bibnamedelima ES},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=83bfc750a74aff11efa4bbcd04d4af05}{%
+           family={Ostrom},
+           familyi={O\bibinitperiod},
+           given={Elinor},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{591890496eb18fe6fdd9e85df3b2574b}
+      \strng{fullhash}{591890496eb18fe6fdd9e85df3b2574b}
+      \strng{authornamehash}{591890496eb18fe6fdd9e85df3b2574b}
+      \strng{authorfullhash}{591890496eb18fe6fdd9e85df3b2574b}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Political Science Review}
+      \field{number}{3}
+      \field{title}{A grammar of institutions}
+      \field{volume}{89}
+      \field{year}{1995}
+      \field{pages}{582\bibrangedash 600}
+      \range{pages}{19}
+    \endentry
+    \entry{sep-social-procedures}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=9e7292c27370cc8340a3baf9e9a87fff}{%
+           family={Eijck},
+           familyi={E\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=ed1c107b2b854e35ffd9e8b235497d76}{%
+           family={Verbrugge},
+           familyi={V\bibinitperiod},
+           given={Rineke\bibnamedelima (L.C.)},
+           giveni={R\bibinitperiod\bibinitdelim (\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d9b6284b7816d9e586e8af9a253ba08e}{%
+           family={Zalta},
+           familyi={Z\bibinitperiod},
+           given={Edward\bibnamedelima N.},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Metaphysics Research Lab, Stanford University}%
+      }
+      \strng{namehash}{6052605997f29996881247b162c96da2}
+      \strng{fullhash}{6052605997f29996881247b162c96da2}
+      \strng{authornamehash}{6052605997f29996881247b162c96da2}
+      \strng{authorfullhash}{6052605997f29996881247b162c96da2}
+      \strng{editornamehash}{d9b6284b7816d9e586e8af9a253ba08e}
+      \strng{editorfullhash}{d9b6284b7816d9e586e8af9a253ba08e}
+      \field{sortinit}{E}
+      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Stanford Encyclopedia of Philosophy}
+      \field{edition}{Spring 2017}
+      \field{howpublished}{\url{https://plato.stanford.edu/archives/spr2017/entries/social-procedures/}}
+      \field{title}{Formal Approaches to Social Procedures}
+      \field{year}{2017}
+    \endentry
+    \entry{eijck2009discourses}{book}{}
+      \name{author}{2}{}{%
+        {{hash=fed130c6799b8f46993a41333616c071}{%
+           family={Eijck},
+           familyi={E\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e98c14b367601f8ef1a179684494cc96}{%
+           family={Verbrugge},
+           familyi={V\bibinitperiod},
+           given={Rineke},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Amsterdam University Press}%
+      }
+      \strng{namehash}{73ae7658c8c5fe3b1e28d8806595300b}
+      \strng{fullhash}{73ae7658c8c5fe3b1e28d8806595300b}
+      \strng{authornamehash}{73ae7658c8c5fe3b1e28d8806595300b}
+      \strng{authorfullhash}{73ae7658c8c5fe3b1e28d8806595300b}
+      \field{sortinit}{E}
+      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Discourses on social software}
+      \field{year}{2009}
+    \endentry
+    \entry{goodin2009oxford}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6f39dfb7414b1d01be020a33577630e6}{%
+           family={Goodin},
+           familyi={G\bibinitperiod},
+           given={Robert\bibnamedelima E},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{6f39dfb7414b1d01be020a33577630e6}
+      \strng{fullhash}{6f39dfb7414b1d01be020a33577630e6}
+      \strng{authornamehash}{6f39dfb7414b1d01be020a33577630e6}
+      \strng{authorfullhash}{6f39dfb7414b1d01be020a33577630e6}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Oxford handbook of political science}
+      \field{volume}{11}
+      \field{year}{2009}
+    \endentry
+    \entry{hall1996political}{article}{}
+      \name{author}{2}{}{%
+        {{hash=099a7f4452f1e026f836b14076741e76}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Peter\bibnamedelima A},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=4c90cbc6b0c73f3556214016757fffd5}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Rosemary\bibnamedelima CR},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage UK: London, England}%
+      }
+      \strng{namehash}{a562e60c88f771d10eb39a493e63064b}
+      \strng{fullhash}{a562e60c88f771d10eb39a493e63064b}
+      \strng{authornamehash}{a562e60c88f771d10eb39a493e63064b}
+      \strng{authorfullhash}{a562e60c88f771d10eb39a493e63064b}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Political studies}
+      \field{number}{5}
+      \field{title}{Political science and the three new institutionalisms}
+      \field{volume}{44}
+      \field{year}{1996}
+      \field{pages}{936\bibrangedash 957}
+      \range{pages}{22}
+    \endentry
+    \entry{heckelman2015handbook}{book}{}
+      \name{author}{2}{}{%
+        {{hash=6fbccb6a53f254e95f656b0350a13294}{%
+           family={Heckelman},
+           familyi={H\bibinitperiod},
+           given={Jac\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=fb77ac6ef1a09c6fe90d75375071acb9}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Nicholas\bibnamedelima R},
+           giveni={N\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Edward Elgar Publishing}%
+      }
+      \strng{namehash}{d8d497422edf2e7256963b53dda11dae}
+      \strng{fullhash}{d8d497422edf2e7256963b53dda11dae}
+      \strng{authornamehash}{d8d497422edf2e7256963b53dda11dae}
+      \strng{authorfullhash}{d8d497422edf2e7256963b53dda11dae}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Handbook of Social Choice and Voting}
+      \field{year}{2015}
+    \endentry
+    \entry{ostrom1986agenda}{article}{}
+      \name{author}{1}{}{%
+        {{hash=83bfc750a74aff11efa4bbcd04d4af05}{%
+           family={Ostrom},
+           familyi={O\bibinitperiod},
+           given={Elinor},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{83bfc750a74aff11efa4bbcd04d4af05}
+      \strng{fullhash}{83bfc750a74aff11efa4bbcd04d4af05}
+      \strng{authornamehash}{83bfc750a74aff11efa4bbcd04d4af05}
+      \strng{authorfullhash}{83bfc750a74aff11efa4bbcd04d4af05}
+      \field{sortinit}{O}
+      \field{sortinithash}{f5d80ef71b5b58852663ecfd775b175a}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Public choice}
+      \field{number}{1}
+      \field{title}{An agenda for the study of institutions}
+      \field{volume}{48}
+      \field{year}{1986}
+      \field{pages}{3\bibrangedash 25}
+      \range{pages}{23}
+    \endentry
+    \entry{ostrom2005understanding}{book}{}
+      \name{author}{1}{}{%
+        {{hash=83bfc750a74aff11efa4bbcd04d4af05}{%
+           family={Ostrom},
+           familyi={O\bibinitperiod},
+           given={Elinor},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press Princeton, NJ}%
+      }
+      \strng{namehash}{83bfc750a74aff11efa4bbcd04d4af05}
+      \strng{fullhash}{83bfc750a74aff11efa4bbcd04d4af05}
+      \strng{authornamehash}{83bfc750a74aff11efa4bbcd04d4af05}
+      \strng{authorfullhash}{83bfc750a74aff11efa4bbcd04d4af05}
+      \field{sortinit}{O}
+      \field{sortinithash}{f5d80ef71b5b58852663ecfd775b175a}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Understanding institutional diversity}
+      \field{year}{2005}
+    \endentry
+    \entry{page2008uncertainty}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ef12616985a56dda2cdcbd79e32a60d6}{%
+           family={Page},
+           familyi={P\bibinitperiod},
+           given={Scott\bibnamedelima E},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{ef12616985a56dda2cdcbd79e32a60d6}
+      \strng{fullhash}{ef12616985a56dda2cdcbd79e32a60d6}
+      \strng{authornamehash}{ef12616985a56dda2cdcbd79e32a60d6}
+      \strng{authorfullhash}{ef12616985a56dda2cdcbd79e32a60d6}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Theoretical Politics}
+      \field{number}{2}
+      \field{title}{Uncertainty, difficulty, and complexity}
+      \field{volume}{20}
+      \field{year}{2008}
+      \field{pages}{115\bibrangedash 149}
+      \range{pages}{35}
+    \endentry
+    \entry{weisberg2012simulation}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d49f7bc8f0cf4362165d2fae0e6a2d55}{%
+           family={Weisberg},
+           familyi={W\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{d49f7bc8f0cf4362165d2fae0e6a2d55}
+      \strng{fullhash}{d49f7bc8f0cf4362165d2fae0e6a2d55}
+      \strng{authornamehash}{d49f7bc8f0cf4362165d2fae0e6a2d55}
+      \strng{authorfullhash}{d49f7bc8f0cf4362165d2fae0e6a2d55}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Simulation and similarity: Using models to understand the world}
+      \field{year}{2012}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
